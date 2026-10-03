@@ -20,6 +20,6 @@ spec:
     spec:
       containers:
         - name: devops-cicd-demo
-          image: manjugowda200523/devops-cicd-demo:12
+          image: manjugowda200523/devops-cicd-demo:13
           ports:
             - containerPort: 8080
